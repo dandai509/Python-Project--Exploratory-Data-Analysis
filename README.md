@@ -1,4 +1,4 @@
-# Exploratory Data Analysis on AirBnb Amesterdam
+# Python Project- EDA on AirBnb Amesterdam
 ## Business Problem
 Client wishes to invest in an Airbnb property in Amsterdam. He would like to see some data about Airbnb performance in Amsterdam’s neighbourhoods that supports a clear recommendation for an investment in a specific neighborhood. 
 ## Data Cleaning 
