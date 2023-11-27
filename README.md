@@ -9,6 +9,7 @@ Top 10 hosts as shown below with the highest revenue of $1400/per night. Average
 ![1](https://github.com/dandai509/Python-Project--Exploratory-Data-Analysis/assets/106848444/fed8c479-28a3-4e0e-8966-e27061d3ac79)
 
 Centrum-west has the highest median price per night, Bijlmer-Oost/Bijlmer-Centrum has the lowest price per night, Ijburg-Zeeburgereiland stands out with the second highest price of $275 per night
+
 ![2](https://github.com/dandai509/Python-Project--Exploratory-Data-Analysis/assets/106848444/9e7a347f-caa7-48bd-aa50-1b43bc10c7e1)
 
 The most reviewed property types are Chalet, Dorm, and Earthouse. The most popular type is apartments with over 6000 lists, the second most popular list is House around 711
